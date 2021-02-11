@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9169c81-6844-49f1-b3af-03f4a356551e" name="Default Changelist" comment="bg image">
+    <list default="true" id="a9169c81-6844-49f1-b3af-03f4a356551e" name="Default Changelist" comment="project videos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -67,7 +66,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612266651323</updated>
-      <workItem from="1612266652470" duration="1525000" />
+      <workItem from="1612266652470" duration="3579000" />
+      <workItem from="1612429418602" duration="4308000" />
+      <workItem from="1612617998589" duration="3060000" />
+      <workItem from="1613042515463" duration="1876000" />
     </task>
     <task id="LOCAL-00001" summary="bg image">
       <created>1612266850301</created>
@@ -90,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612267291126</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="project videos">
+      <created>1612268342456</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612268342456</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,23 +115,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bg image" />
-    <option name="LAST_COMMIT_MESSAGE" value="bg image" />
+    <MESSAGE value="project videos" />
+    <option name="LAST_COMMIT_MESSAGE" value="project videos" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612267192662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612267192662" />
-    <state x="552" y="265" key="Vcs.Push.Dialog.v2" timestamp="1612267299231">
+    <state x="552" y="265" key="Vcs.Push.Dialog.v2" timestamp="1612268355413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="265" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612267299231" />
+    <state x="552" y="265" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612268355413" />
     <state x="777" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612266668651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612266668651" />
+    <state x="2540" y="242" key="run.anything.popup" timestamp="1612430186936">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2540" y="242" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612430186936" />
   </component>
 </project>
