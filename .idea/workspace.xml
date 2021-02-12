@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9169c81-6844-49f1-b3af-03f4a356551e" name="Default Changelist" comment="project videos">
+    <list default="true" id="a9169c81-6844-49f1-b3af-03f4a356551e" name="Default Changelist" comment="GG almost">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -69,7 +69,8 @@
       <workItem from="1612266652470" duration="3579000" />
       <workItem from="1612429418602" duration="4308000" />
       <workItem from="1612617998589" duration="3060000" />
-      <workItem from="1613042515463" duration="1876000" />
+      <workItem from="1613042515463" duration="2521000" />
+      <workItem from="1613122404725" duration="1565000" />
     </task>
     <task id="LOCAL-00001" summary="bg image">
       <created>1612266850301</created>
@@ -99,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612268342456</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="GG almost">
+      <created>1613044437821</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613044437821</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,17 +128,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bg image" />
     <MESSAGE value="project videos" />
-    <option name="LAST_COMMIT_MESSAGE" value="project videos" />
+    <MESSAGE value="GG almost" />
+    <option name="LAST_COMMIT_MESSAGE" value="GG almost" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612267192662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612267192662" />
-    <state x="552" y="265" key="Vcs.Push.Dialog.v2" timestamp="1612268355413">
+    <state x="552" y="265" key="Vcs.Push.Dialog.v2" timestamp="1613044444440">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="265" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612268355413" />
+    <state x="552" y="265" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613044444440" />
     <state x="777" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612266668651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
